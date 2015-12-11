@@ -1,0 +1,21 @@
+{
+  "name": "synonymator",
+  "version": "0.0.1",
+  "description": "Big Huge Thesaurus client/bindings for nodejs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1egoman/synonymator.git"
+  },
+  "author": "Ryan Gaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1egoman/synonymator/issues"
+  },
+  "homepage": "https://github.com/1egoman/synonymator#readme"
+}
