@@ -31,4 +31,4 @@ class Synonymator {
     return this.lookup(word).then((data) => data.noun.syn.concat(data.verb.syn));
   }
 }
-exports.Synonymator = Synonymator;
+module.exports = Synonymator;
