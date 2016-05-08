@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Big Huge Thesaurus client/bindings for nodejs",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": { "request-promise": "^3.0.0" },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
